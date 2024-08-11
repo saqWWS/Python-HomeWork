@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Bob",
+    "age": 32,
+    "work": "Driver",
+    "from": "Vietnam",
+    "city": "Haiphong",
+    "languages": [
+      "Vietnamese",
+      "French"
+    ]
+  },
+  {
+    "name": "Ann",
+    "age": 27,
+    "work": "Teacher",
+    "from": "Italy",
+    "city": "Bari",
+    "languages": [
+      "Italian",
+      "English",
+      "Deutsch"
+    ]
+  },
+  {
+    "name": "Iulia",
+    "age": 27,
+    "work": "Manicurist",
+    "from": "Romania",
+    "city": "Sibiu",
+    "languages": [
+      "Romanian",
+      "English"
+    ]
+  }
+]
